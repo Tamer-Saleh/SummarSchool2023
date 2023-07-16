@@ -1,8 +1,7 @@
 # Summar School 2023 (CV Course-Group 11)
 
-
 <h1 align="center">
-  <b>DAM-Net: Detecting Ships from Satellite Imagery with Deep Learning and Computer Vision</b><br>
+  <b>Detecting Ships from Satellite Imagery with Deep Learning and Computer Vision</b><br>
 </h1>
 
 <h2 align="left">Authors <br></h2>
@@ -19,18 +18,11 @@
 
 ## Players
 
-![Overall](https://github.com/Tamer-Saleh/SummarSchool2023/edit/Flood-Mapping/NAMES.png)
+![Players](https://github.com/Tamer-Saleh/SummarSchool2023/blob/Flood-Mapping/NAMES.png)
 
 
 ## Preamble
 Satellite imagery are critical in many applications such as defence, agriculture, surveillance and intelligence. This project aims at detecting large ships in sea from satellite images using AI and CV.
-
-
- <div align="left">
-  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/test-map.gif" width="480" height="340" />
-  <img src="https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/zoom-test-map.gif" width="340" height="340" />
-</div>
-
 
 ## Requirements
 
