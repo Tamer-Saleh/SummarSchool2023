@@ -34,7 +34,7 @@ Satellite imagery are critical in many applications such as defence, agriculture
 
 
 ## The proposed model
-![Overall](https://github.com/Tamer-Saleh/GFlood-Detection/blob/Flood-Mapping/images/overall.png)
+![Overall](https://github.com/Tamer-Saleh/SummarSchool2023/blob/Flood-Mapping/model.png)
 
 
 ## :speech_balloon: <span id="jump">Dataset Preparation</span>
