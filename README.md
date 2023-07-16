@@ -13,7 +13,7 @@
 
 
 ## Updates
-| :zap:         | July, 2023: International GeoInformatics Summar School-LIESMARS-ChHINA. |
+| :zap:         | July, 2023: International GeoInformatics Summar School-LIESMARS-CHINA. |
 |---------------|:------------------------|
 
 ## Players
